@@ -1,4 +1,5 @@
 # Nakkity-Craft-Open-Source
+💕 Please give us a Star! Please! 💕
 ## About us
 This is **NakkityCraft**.
 **NakkityCraft** is a **Minecraft Serve**r or a **chat-place**.
