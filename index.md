@@ -15,5 +15,5 @@
 <br />
 <br />
 <br />
-![alt SVG](https://bafybeibgrul57x7ikvkjxkqdbsetysqnndd3qlvtsydacs7nywphkqkpoe.ipfs.dweb.link/One.svg)
+![owo SVG](https://bafybeibgrul57x7ikvkjxkqdbsetysqnndd3qlvtsydacs7nywphkqkpoe.ipfs.dweb.link/One.svg)
   </center>
