@@ -15,5 +15,5 @@
 <br />
 <br />
 <br />
-! [picture](https://bafybeibgrul57x7ikvkjxkqdbsetysqnndd3qlvtsydacs7nywphkqkpoe.ipfs.dweb.link/One.svg "Open Source")
+<img src="" alt="alt" title="title">
   </center>
