@@ -15,5 +15,5 @@
 <br />
 <br />
 <br />
-<img src="" alt="alt" title="title">
-  </center>
+<img src="https://bafybeibgrul57x7ikvkjxkqdbsetysqnndd3qlvtsydacs7nywphkqkpoe.ipfs.dweb.link/One.svg" alt="alt" title="title">
+</center>
